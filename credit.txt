@@ -1,0 +1,98 @@
+    <div class="one_quarter">
+      <h6 class="heading">Tortor varius nisi</h6>
+      <ul class="nospace linklist">
+        <li>
+          <article>
+            <p class="nospace btmspace-10"><a href="#">Id euismod est risus ac neque aliquam erat volutpat pellentesque adipiscing.</a></p>
+            <time class="block font-xs" datetime="2045-04-06">Friday, 6<sup>th</sup> April 2045</time>
+          </article>
+        </li>
+        <li>
+          <article>
+            <p class="nospace btmspace-10"><a href="#">Nunc hendrerit adipiscing nulla donec vestibulum odio quisque gravida morbi.</a></p>
+            <time class="block font-xs" datetime="2045-04-05">Thursday, 5<sup>th</sup> April 2045</time>
+          </article>
+        </li>
+      </ul>
+    </div>
+
+
+
+
+
+
+    <div class="sectiontitle">
+      <p class="nospace font-xs">Id erat duis nibh diam at</p>
+      <h6 class="heading">Vulputate quis lacus nullam</h6>
+    </div>
+    
+    </ul>
+
+
+
+
+
+<ul id="stats" class="nospace group">
+      <li><i class="fas fa-id-badge"></i>
+        <p><a href="#">123</a></p>
+        <p>Augue dui convallis</p>
+      </li>
+      <li><i class="fas fa-skull"></i>
+        <p><a href="#">1234</a></p>
+        <p>Id ullamcorper</p>
+      </li>
+      <li><i class="fas fa-umbrella"></i>
+        <p><a href="#">12345</a></p>
+        <p>Malesuada interdum</p>
+      </li>
+      <li><i class="fas fa-store-alt"></i>
+        <p><a href="#">6789</a></p>
+        <p>Tristique viverra</p>
+      </li>
+
+
+
+
+
+
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <p class="nospace font-xs">Nisl sed blandit iaculis lectus</p>
+      <h6 class="heading">Nam et erat nec eros elementum</h6>
+    </div>
+    <ul class="nospace group latest">
+      <li class="one_half first">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
+              <li><i class="fas fa-tag"></i> <a href="#">Category Name</a></li>
+            </ul>
+            <h6 class="heading">Gravida integer tristique</h6>
+            <p>Dui vel odio proin magna ligula pellentesque eu tincidunt sed ornare tempor nisl in id dui vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More</a></footer>
+          </div>
+          <time datetime="2045-04-06T08:15+00:00"><strong>06</strong> <em>Apr</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
+              <li><i class="fas fa-tag"></i> <a href="#">Category Name</a></li>
+            </ul>
+            <h6 class="heading">Eleifend semper nisl sed</h6>
+            <p>Eget lorem in in felis in metus mollis blandit ut eu justo suspendisse semper sem sit amet ligula quisque eget felis eu tortor tristique pharetra praesent turpis pede varius sed [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More</a></footer>
+          </div>
+          <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em></time>
+        </article>
+      </li>
+    </ul>
+    
+    <!-- ################################################################################################ -->
+  </section>
+</div>
