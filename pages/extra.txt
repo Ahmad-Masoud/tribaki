@@ -1,0 +1,98 @@
+<section id="introblocks">
+      <ul class="nospace group">
+        <li class="one_third">          
+          <figure><a class="imgover" href="blogs/jwst.html"><img src="images/demo/blogimg/jwst1.webp" alt=""></a> 
+            <figcaption>
+              <h6 class="heading">James Webb Space Telescope (JWST)</h6>
+              <p>The James Webb Space Telescope (JWST) is one of the most eagerly anticipated astronomical instruments of recent times. Named after James E. Webb, who served as the second administrator of NASA from 1961 to 1968, this instrument is set to be the most powerful space telescope ever launched.</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="one_third">
+          <figure><a class="imgover" href="blogs/OSIRIS-REx.html"><img src="images/demo/blogimg/OSIRIS-REx.png" alt=""></a>
+            <figcaption>
+              <h6 class="heading">OSIRIS-REx Mission: Unveiling the Secrets of Asteroid Bennu</h6>
+              <p>In September 2016, NASA launched the OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer) spacecraft on a daring mission to study the asteroid Bennu. Over the course of its journey, OSIRIS-REx has captured the imagination of space enthusiasts worldwide and promised groundbreaking scientific discoveries.</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="one_third">
+          <figure><a class="imgover" href="blogs/SpaceXandBoeing.html"><img src="images/demo/blogimg/SpaceX-Boeing.avif" alt=""></a>
+            <figcaption>
+              <h6 class="heading">SpaceX and Boeing: Pioneering the Era of Commercial Human Spaceflight</h6>
+              <p>In the realm of space exploration, a new era has dawned with the advent of commercial human spaceflight. Two prominent players leading the charge are SpaceX and Boeing, both working tirelessly to transport astronauts to space and redefine our relationship with the cosmos.</p>
+            </figcaption>
+          </figure>
+        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li class="one_third first">
+        <article><a href="#"><i class="fas fa-eraser fa-5x btmspace-50"></i></a>
+          <h6 class="heading">Tincidunt enim etiam</h6>
+          <p class="btmspace-30">Tellus lacus tempor in pharetra id imperdiet sit amet enim suspendisse potenti fusce ornare [&hellip;]</p>
+          <footer><a class="btn" href="#">Read More</a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-chess-bishop fa-5x btmspace-50"></i></a>
+          <h6 class="heading">Congue nulla facilisi</h6>
+          <p class="btmspace-30">Laoreet ligula phasellus pede phasellus faucibus enim quis lacus praesent ipsum vulputate [&hellip;]</p>
+          <footer><a class="btn" href="#">Read More</a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-coins fa-5x btmspace-50"></i></a>
+          <h6 class="heading">Nunc congue curabitur</h6>
+          <p class="btmspace-30">Vitae lacinia eu interdum tempus massa in sodales purus non nisi cras porta lacinia ut [&hellip;]</p>
+          <footer><a class="btn" href="#">Read More</a></footer>
+        </article>
+      </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="sectiontitle">
+      <h6 class="heading">Last Months Favourite</h6><br><br><br><br><br><br>
+    </div>
+    <article class="one_half first"><img src="images/demo/100x100.png" alt="">
+      <blockquote>Proin sed sapien ut convallis lectus ac magna nulla mattis purus phasellus consectetuer fermentum augue integer vulputate lectus vitae lorem suspendisse potenti donec suscipit.</blockquote>
+      <h6 class="heading">J. Doe</h6>
+      <em>Nulla mauris hendrerit</em></article>
+    <article class="one_half"><img src="images/demo/100x100.png" alt="">
+      <blockquote>Pellentesque et ipsum mattis ipsum pellentesque pretium proin rutrum turpis non accumsan aliquet odio magna luctus neque in adipiscing mi odio ac felis sed mattis enim quis ipsum.</blockquote>
+      <h6 class="heading">G. Doe</h6>
+      <em>Aenean vestibulum mattis</em></article>
