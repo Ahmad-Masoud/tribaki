@@ -105,9 +105,9 @@ Licence URI: https://www.os-templates.com/template-terms
             Email.send({
                 SecureToken : '7cca406d-0958-4581-9f81-0a9a36583e32',
                 To : 'tribaki.business@gmail.com',
-                From : document.getElementById("email").value,
+                From : 'tribaki.business@gmail.com',
                 Subject : "New Contact Form Enquiry",
-                Body : "Name" + document.getElementById("name").value
+                Body : "Name: " + document.getElementById("name").value
                     + "<br> Email: " + document.getElementById("email").value
                     + "<br> Message: " + document.getElementById("message").value
             }).then(
