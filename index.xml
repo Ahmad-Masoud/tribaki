@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+
+      <loc>https://tribaki.com/</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+    </url>
+
+    <url>
+
+      <loc>https://tribaki.com/index.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+    </url>
+
+    <url>
+
+      <loc>https://tribaki.com/pages/gallerytech.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+    </url>
+
+    <url>
+
+      <loc>https://tribaki.com/pages/galleryspace.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+      <priority>0.3</priority>
+
+    </url>
+    <url>
+
+      <loc>https://tribaki.com/pages/galleryspace.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+      <priority>0.3</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://tribaki.com/pages/contactform.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/CCBMA_12.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/chinacanalsp.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/DRCEN.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/NandM.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/CPUWAR.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/CDDGIS.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/FMDPGAI.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/RSAConf.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/tech/openai.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/jwst.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/kdtmn.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/betelgeuse.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/OSIRIS-REx.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/SME.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/SpaceXandBoeing.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/jwstwse.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/NASAPsyche.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+      <url>
+
+      <loc>https://tribaki.com/space/Euro-jupiter.html</loc>
+
+      <lastmod>2023-06-10</lastmod>
+
+    </url>
+
+</urlset>
