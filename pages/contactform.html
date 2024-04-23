@@ -88,8 +88,9 @@ Licence URI: https://www.os-templates.com/template-terms
 
       </style>
     <div class="container">
-        <form onsubmit="sendemail(); reset(); return false;" style="display: flex; flex-direction: column; padding: 2vw 4vw; width: 90%; max-width: 600px; border-radius: 10px;">
+        <form action="https://api.web3forms.com/submit" method="POST" onsubmit="sendemail(); reset(); return false;" style="display: flex; flex-direction: column; padding: 2vw 4vw; width: 90%; max-width: 600px; border-radius: 10px;">
             <h3>GET IN TOUCH</h3>
+            <input type="hidden" name="access_key" value="20ac96c7-1d12-44bc-86ae-c8c844f735be">
             <input type="text" id="name" placeholder="Name" required>
             <input type="text" id="email" placeholder="Email" required>
             <textarea id="message" rows="4" placeholder="Message"></textarea>
