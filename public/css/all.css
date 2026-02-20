@@ -1,0 +1,161 @@
+/*!
+ * Font Awesome Free 5.1.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license
+ * Icons: CC BY 4.0
+ * Fonts: SIL OFL 1.1
+ * Code: MIT License
+ */
+
+/* Core */
+.fa,
+.fab,
+.fal,
+.far,
+.fas {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+/* Sizing */
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: .75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs { font-size: .75em; }
+.fa-sm { font-size: .875em; }
+.fa-1x { font-size: 1em; }
+.fa-2x { font-size: 2em; }
+.fa-3x { font-size: 3em; }
+.fa-4x { font-size: 4em; }
+.fa-5x { font-size: 5em; }
+.fa-6x { font-size: 6em; }
+.fa-7x { font-size: 7em; }
+.fa-8x { font-size: 8em; }
+.fa-9x { font-size: 9em; }
+.fa-10x { font-size: 10em; }
+
+/* Fixed Width */
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+/* List */
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  position: absolute;
+  left: -2em;
+  width: 2em;
+  text-align: center;
+  line-height: inherit;
+}
+
+/* Border */
+.fa-border {
+  border: .08em solid #eee;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
+}
+
+/* Pull */
+.fa-pull-left { float: left; }
+.fa-pull-right { float: right; }
+
+.fa.fa-pull-left,
+.fab.fa-pull-left,
+.fal.fa-pull-left,
+.far.fa-pull-left,
+.fas.fa-pull-left {
+  margin-right: .3em;
+}
+
+.fa.fa-pull-right,
+.fab.fa-pull-right,
+.fal.fa-pull-right,
+.far.fa-pull-right,
+.fas.fa-pull-right {
+  margin-left: .3em;
+}
+
+/* Animations */
+.fa-spin {
+  animation: fa-spin 2s infinite linear;
+}
+
+.fa-pulse {
+  animation: fa-spin 1s infinite steps(8);
+}
+
+@keyframes fa-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Rotation */
+.fa-rotate-90  { transform: rotate(90deg); }
+.fa-rotate-180 { transform: rotate(180deg); }
+.fa-rotate-270 { transform: rotate(270deg); }
+
+.fa-flip-horizontal { transform: scaleX(-1); }
+.fa-flip-vertical   { transform: scaleY(-1); }
+.fa-flip-horizontal.fa-flip-vertical {
+  transform: scale(-1);
+}
+
+/* Stack */
+.fa-stack {
+  display: inline-block;
+  position: relative;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.fa-stack-1x { line-height: inherit; }
+.fa-stack-2x { font-size: 2em; }
+
+.fa-inverse {
+  color: #fff;
+}
+
+/* Example Icons */
+.fa-500px:before            { content: "\f26e"; }
+.fa-accessible-icon:before  { content: "\f368"; }
+.fa-address-book:before     { content: "\f2b9"; }
+.fa-address-card:before     { content: "\f2bb"; }
+.fa-adjust:before           { content: "\f042"; }
+.fa-amazon:before           { content: "\f270"; }
+.fa-ambulance:before        { content: "\f0f9"; }
+.fa-anchor:before           { content: "\f13d"; }
+.fa-android:before          { content: "\f17b"; }
+.fa-apple:before            { content: "\f179"; }
+.fa-archive:before          { content: "\f187"; }
+.fa-arrow-down:before       { content: "\f063"; }
+.fa-arrow-left:before       { content: "\f060"; }
+.fa-arrow-right:before      { content: "\f061"; }
+.fa-arrow-up:before         { content: "\f062"; }
