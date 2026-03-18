@@ -1,9 +1,24 @@
-Tribaki Web App
+# Tribaki
+A full-stack blog platform built with React, Node.js/Express, and MySQL.
+Features include authentication, admin posting dashboard, 
+subscription system, and SEO optimization.
 
-Tribaki -> Frontend
+## Tech Stack
+- Frontend: React
+- Backend: Node.js, Express
+- Database: MySQL
 
-Backend -> Backend
+## Setup
+1. Clone the repo
+2. Create .env in Backend with:
+   DB_USER=your_username
+   DB_PASSWORD=your_password
+3. npm install in both Tribaki and Backend folders
+4. Run the database schema from DataBase folder
+5. npm start
 
-DataBase -> DataBase
-
-Create .env file in Backend and setup username and password for DataBase
+## Features
+- Authentication
+- Admin dashboard
+- Subscription system
+- REST API
