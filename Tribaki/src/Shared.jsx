@@ -79,6 +79,9 @@ export function Navbar({ activePage = "home" }) {
           <li>
             <a href="https://patreon.com/Tribaki">Support Us</a>
           </li>
+          <li>
+            <a href="/admin">Admin</a>
+          </li>
         </ul>
       </nav>
     </section>
