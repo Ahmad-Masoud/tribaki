@@ -3,9 +3,11 @@ import HomePage from "./HomePage";
 import ContactPage from "./ContactPage";
 import GalleryPage from "./GalleryPage";
 import BlogPage from "./BlogPage";
+import AdminDB from "./Admin_db";
 
 function parsePath(path) {
   if (path === "/contact") return { page: "contact" };
+  if (path === "/admin") return { page: "admin" };
   if (path === "/gallery/space") return { page: "gallery", type: "space" };
   if (path === "/gallery/technology") return { page: "gallery", type: "tech" };
   const blogMatch = path.match(/^\/blog\/(.+)$/);
@@ -42,6 +44,8 @@ export default function App() {
     case "contact": return <ContactPage />;
     case "gallery": return <GalleryPage type={route.type} />;
     case "blog": return <BlogPage slug={route.slug} />;
+    case "admin": return <AdminDB />;
     default: return <HomePage />;
   }
 }
+
